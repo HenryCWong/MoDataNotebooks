@@ -1,0 +1,1202 @@
+
+
+
+Edi Rama - Wikipedia
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XjHYVApAMFsAAHiM1u4AAAAT","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Edi_Rama","wgTitle":"Edi Rama","wgCurRevisionId":936438743,"wgRevisionId":936438743,"wgArticleId":277805,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Albanian-language sources (sq)","Pages with citations lacking titles","Pages with citations having bare URLs","Articles with short description","Use dmy dates from May 2015","All articles with unsourced statements",
+"Articles with unsourced statements from March 2019","Articles with Albanian-language sources (sq)","Commons category link from Wikidata","Official website not in Wikidata","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with ULAN identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat-VIAF identifiers","1964 births","20th-century Albanian politicians","20th-century Albanian writers","20th-century Albanian painters","21st-century Albanian politicians","21st-century Albanian writers","21st-century Albanian painters","Albanian expatriates in France","Albanian former Christians","Albanian male writers","Albanian memoirists","Albanian men's basketball players","Albanian agnostics","Basketball players from Tirana","Culture ministers","Culture ministers of Albania","Harvard University staff",
+"Leaders of political parties","Living people","Mayors of Tirana","People from Tirana","Politicians from Tirana","Prime Ministers of Albania","Socialist Party of Albania politicians","Sports ministers","University of Arts of Albania alumni","University of Massachusetts Boston faculty","20th-century male writers"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Edi_Rama","wgRelevantArticleId":277805,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia",
+"wgWikibaseItemId":"Q316901","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar",
+"ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Edi Rama
+
+From Wikipedia, the free encyclopedia
+
+
+Jump to navigation
+Jump to search
+Prime Minister of Albania
+
+
+Edi RamaEdi Rama in 201433rd Prime Minister of AlbaniaIncumbentAssumed office 13 September 2013PresidentIlir MetaDeputyNiko PeleshiLedina MandiaSenida MesiErion BraçePreceded bySali BerishaChairman of the Socialist Party of AlbaniaIncumbentAssumed office 10 October 2005Preceded byFatos NanoChair of the Organization for Security and Co-operation in EuropeIncumbentAssumed office 1 January 2020Preceded byMiroslav LajčákMinister of Foreign AffairsIncumbentAssumed office 21 January 2019Preceded byDitmir Bushati40th Mayor of TiranaIn office11 October 2000 – 25 July 2011Prime MinisterPandeli MajkoIlir MetaPreceded byAlbert BrojkaSucceeded byLulzim BashaMinister of Culture, Youth and SportsIn office2 October 1998 – 26 October 2000Preceded byArta DadeSucceeded byEsmeralda Uruçi
+Personal detailsBorn (1964-07-04) 4 July 1964 (age 55)Tirana, AlbaniaPolitical partySocialist Party of AlbaniaHeight6 ft 7.5 in (202 cm)[1]Spouse(s)Matilda Makoçi(m. 1986; div. 1991)Linda Basha (m. 2010)ChildrenGregorZahoFatherKristaq RamaAlma materAcademy of ArtsSignatureWebsiteedirama.al
+Edvin "Edi" Rama (born 4 July 1964) is an Albanian politician, artist, writer and former basketball player,[2] who is serving as the 33rd[3] Prime Minister of Albania and the Minister of Foreign Affairs since 13 September 2013 and 21 January 2019 respectively. 
+Rama has also been Chairman of the Socialist Party of Albania since 2005. Before his election as Prime Minister, Rama held a number of other positions. He was appointed Minister of Culture, Youth and Sports in 1998, a position that he held until 2000.
+He was first elected Mayor of Tirana in 2000, and was reelected in 2003 and 2007. In 2013, the coalition of center-left parties led by Edi Rama won the 2013 parliamentary election, defeating the center-right coalition of Democratic Party of Albania's incumbent Prime Minister, Sali Berisha.  He was confirmed as prime minister for a second term on 2017 election.
+
+Contents
+
+1 Early life and career
+2 Political career
+
+2.1 Mayor of Tirana (2000–11)
+2.2 Leader of the opposition (2005–13)
+2.3 Prime Minister of Albania (2013-present)
+
+
+3 Policies as Prime Minister
+
+3.1 Cabinet
+
+3.1.1 1st Cabinet
+3.1.2 2nd Cabinet
+
+
+3.2 Foreign policy
+
+
+4 Artist and Writer
+5 Personal life
+6 Controversy and criticism
+
+6.1 Violation of U.S. Federal Law: 52 USC 30121 - Contributions and donations by foreign nationals[54]
+6.2 Makoçi's testimony in divorce hearings
+6.3 Involvement in Electoral Fraud
+6.4 Attacks on the media
+6.5 Controversial Media law
+6.6 Other controversies
+
+
+7 Awards
+8 Honours
+
+8.1 Foreign honours
+
+
+9 Publications
+10 See also
+11 References
+12 Further reading
+13 External links
+
+
+Early life and career[edit]
+Edi Rama was born on 4 July 1964 in Tirana, Albania to Kristaq Rama, a well-known sculptor born in Durrës who was the creator of numerous statues of Albania's communist dictator Enver Hoxha, and Aneta Rama (née Koleka), a graduate of medicine from Vuno,[4] Vlorë, sister of Spiro Koleka a member of the Politburo during Communist Albania.
+Rama started painting early in his childhood. During his teenage years, his talent was noticed by two influential Albanian painters of the time, Edi Hila and Danish Jukniu.[5] They encouraged Rama to further develop his painting skills in a professional context.[5]  He attended and graduated from the Jordan Misja Artistic Lyceum, an art school in Tirana.[6] As a teenager, Rama was involved in sports as a professional basketball player for Dinamo Tirana. He was also part of the Albania national basketball team.[7][8] In 1982, he enrolled in the Academy of Arts in Tirana.
+After graduating, Rama started working as an instructor at the Academy of Arts. During this time, he organized several open student meetings, during which the communist government was publicly criticized. Essays from those meetings were collected in the book Refleksione, which Rama published together with publicist Ardian Klosi in 1992.
+Shortly before the fall of communism in Albania, Rama attempted several times to get involved with the incipient fight for democracy. He tried to influence student protests and become part of the newly created Democratic Party of Albania, but soon left after a quarrel over ideological matters with Sali Berisha.[9]
+In 1994, Rama ran away to France, and tried to begin a career as a painter. He and his former student, Anri Sala, exhibited their works in several art galleries.[citation needed]
+
+
+
+This article is part of a series aboutEdi Rama
+
+Offices
+Minister of Culture (1998–2000) 
+Mayor of Tirana (2000–2011) 
+Opposition leader (2011–2013) 
+Minister of Foreign Affairs (2019-present) 
+
+
+PremiershipIncumbent
+2013 Election
+2017 Election
+1st Cabinet
+2nd Cabinet
+Official trips
+
+Personal life
+Artist
+Writer
+Foreign policy
+Honours and Awards
+
+
+vte
+Political career[edit]
+During one of his trips back to Albania in January 1997, Rama suffered a physical assault. While perpetrators were never found, there were concerns over the involvement of the State Secret Service given Rama's outspoken criticism towards the Albanian government.[10]
+In 1998, while in Albania for the funeral of his father, Rama was offered a cabinet position by the then-Prime Minister of Albania Fatos Nano.[11] Later that year he was appointed Minister of Culture, Youth and Sports.
+As a Minister, Rama immediately became known for his extravagance in a variety of ways, including his unique colorful dressing style. His innovative cultural projects, coupled with his strange clothing and rebellious political style, helped him reach a great level of support especially among young people.
+
+Mayor of Tirana (2000–11)[edit]
+See also: Mayor of Tirana
+ Colorful buildings in Tirana.
+In October 2000, the Socialist Party of Albania endorsed Edi Rama in the election for Mayor of Tirana. The Democratic Party nominee was Besnik Mustafaj an Albanian writer and diplomat. Rama won 57% of the vote and was sworn-in as mayor. After taking office, he undertook a radical campaign of bulldozing hundreds of illegal constructions and restoring many areas near Tirana's center and Lana River into their initial form.[12]
+Rama earned international recognition by repainting the facades of many soviet-style, demolishing buildings in the city.[13] The repainting gave the city a unique style, turning it into a tourist attraction. Rama was awarded the inaugural World Mayor Prize in 2004.[14] The award committee, motivated their decision stating that "Edi Rama is the man who changed a whole city. Now there is a new Tirana, colored, happy, with a new and improved infrastructure and cultural life".[14]
+As mayor he compiled the Tirana City Master Plan[15] including the Skanderbeg Square project. He planted thousands of new trees, making Tirana a much more environment-friendly city. Rama also expanded the existing roads and paved new ones, improving mobility. 
+According to a UNDP report[16] Rama played a critical role in the modernization of the local government, empowering municipalities and giving them, for the first time real power to impact the life of their communities.
+Rama was reelected as Mayor of Tirana by defeating Democratic Party of Albania candidates Spartak Ngjela, a former attorney, in 2003 and Sokol Olldashi in 2007.
+In 2011, Rama decided to run for a fourth term in office. His opponent, Lulzim Basha was a member of Prime Minister Berisha's cabinet. Rama's reelection bid failed after a court ruling decided hundreds of ballots mistakenly cast in the wrong ballot boxes were valid. The initial count saw Rama ahead by 10 votes. With all ballots counted Lulzim Basha won the race by 81 votes. Edi Rama appealed the court's decision at the Electoral College and demanded the reinstatement of the initial tally. Rama's appeals were rejected and Lulzim Basha was sworn in as the new Mayor of Tirana. Rama and the Socialist Party criticized the judges involved in the court ruling, severely eroding public's trust in Albanian institutions.
+
+Leader of the opposition (2005–13)[edit]
+Having previously run as an independent in 2000, Edi Rama only registered as a Socialist in 2003. Later that year he announced a bid for the chairmanship of the Party. He and a Rexhep Meidani, a former President ran against the incumbent, Fatos Nano. Rama's bid failed to gain sufficient support from the Assembly delegates. He received 41 votes, Rexhep Meidani received 61, while Fatos Nano was reelected with 456 votes.[17]
+After the center-left coalition lost in the 2005 parliamentary election, Fatos Nano resigned as Chairman of the Socialist Party. In the subsequent election for the chairmanship of the Party, Edi Rama defeated Rexhep Meidani 297 to 151 and became the Chairman of the Socialist Party.[17] Capitalizing on Rama’s popularity as a mayor, the Socialist Party of Albania regained some of its appeal. Rama replaced many of Party's influential leaders with younger loyalists. In his earlier attempts to regain control in the Parliament, he tried to frame himself as a political outsider. Inspired by the progressive policies of Tony Blair’s "New Labour" and Anthony Giddens "Third Way", his political platform called for a "third direction beyond the traditional right and left".[18]
+As the minority leader, Rama threw his support behind a set of constitutional amendments introduced in the Parliament during summer 2008. These amendments changed Albania's election law from a majoritarian representation with a proportional adjustment into a party-list proportional representation as well as curtailed Presidential powers. Despite criticism and protests from President Bamir Topi and MPs from the Socialist Movement for Integration and other smaller political parties, the amendments were passed in the Parliament with a super-majority.
+Rama's reelection as Mayor in 2007 was greatly helped by the Socialist Movement for Integration's endorsement of his candidacy. Seeing the 2008 constitutional amendments voted by Rama's SPA as a serious threat to their existence in Albanian politics, Ilir Meta and the SMI did not join Rama in a pre-electoral coalition for the 2009 parliamentary election. The Socialist Party led by Edi Rama were only able to win 66 seats in the Parliament. Incumbent Prime Minister Berisha's Democratic Party won 70 seats, while the remaining 4 seats went to Ilir Meta's Socialist Movement for Integration. Demands by Edi Rama and the Socialists for a recount in the district of Fier were rejected by courts amidst criticism about the judges impartiality. Eventually, all four newly-elected SMI members of the parliament voted support for Prime Minister Berisha's Democrats.
+The 2009 elections narrow defeat prompted Rama to continue his mandate as Chairman of the Socialist Party. The Socialist Party opted for a hardcore dispute of the newly elected government by boycotting parliamentary debates for months and staging a hunger strike to prompt for domestic and foreign attention to the situation. The heated political debate surrounding the 2009 election has been pointed out as one reason for Albania's failed bid at gaining official candidate status in accession talks with the EU.[19]
+In January 2011, a recorded videotape showed Deputy Prime Minister Ilir Meta negotiating informal pay-to-play fees with Dritan Prifti, Minister for the Economy, Commerce and Energy. On 21 January 2011, clashes broke out between police and protesters in an anti-government rally in front of the Government building in Tirana. Four people were shot dead from government special forces.[20] The EU issued a statement to Albanian politicians, warning both sides to refrain from violence.[21]
+
+Prime Minister of Albania (2013-present)[edit]
+In 2013, the Socialist Party of Edi Rama led the coalition of center-left parties (that included his former opponents, the SMI) into a landslide victory in the parliamentary election defeating the center-right coalition led by Prime Minister Sali Berisha. His platform, nicknamed "Renaissance"[22] was based on four pillars: European integration, economic revitalization, restoration of the public order and democratization of the state institutions. Since September 2013, Rama has been serving as the Prime Minister of Albania.
+
+Policies as Prime Minister[edit]
+See also: Prime Minister of Albania, Rama Cabinet I, and Rama Cabinet II
+ Austrian Foreign Minister Sebastian Kurz meet Edi Rama in Tirana, Albania. (17 June 2014)
+Since 15 September 2013, Rama is serving as the 33rd Prime Minister of Albania. During the electoral campaign, Rama stated that the return of public order was his number one priority. In 2013, the Albanian Police was able to cover actively only 55% of the territory.[23] The Government invested heavily in modernizing, training, and improving financial benefits of the police force. The police earned international acclaim when in 2014 undertook a highly successful operation on Lazarat, a remote village in the south of the country, known for the production of narcotics.[24]
+Rama has been committed to restructure the judicial system in Albania, which was one of the most corrupted and ineffective judicial systems in Europe at that time.[25] In 2016, the Parliament approved the "vetting law".[26] Based on this law, any judge or prosecutor which cannot explain his source of wealth or former dubious verdicts will be disqualified for life. In November 2016, the European Union stated that a successful implementation of vetting law remains the sole criteria to fulfill before opening accession talks.[27]
+
+ U.S. Secretary of State John Kerry and Edi Rama in Newport, United Kingdom. (5 September 2014)
+Another key reform, was the reform in the energy sector, left in the brink of bankruptcy from a previous failed privatization effort.[28] His government successfully enforced the payment of billions of unpaid bills and heavily invested in the modernization of the obsolete power distribution network.[29] 
+Economic policies have also been successful.[30] The economic growth, from 0,5% in 2013, accelerated to 3,5% in 2016 and is expected to exceed 4% during 2017. Unemployment has been reduced steadily, thanks to 183.000 new jobs[31] created in the last three years. Furthermore, with 11.5% (2019) Albania has the 5th lowest unemployment rate in the Balkans.
+Other important reforms include the administrative reform, the social welfare and pension system reform, and the reform in higher education. 
+Internationally, Rama is pursuing a historical reconciliation policy between Albanians and Serbs and his visit in Belgrade, in 2014 was the first visit of an Albanian Prime Minister in Serbia in over 70 years.[32] In a second visit, during the Economic Forum of Nis, Rama compared the Albanian and Serbian reconciliation process with the historical reconciliation between the French and Germans after the second World War.[33] Rama is also a key supporter of the Berlin Process, an intergovernmental platform of cooperation between the European Union and Western Balkans countries.
+The Socialist Party led by Rama participated at the 2017 parliamentary elections on 25 June 2017. One day after, partial results suggested that the Socialist Party had won a majority.[34]
+The Second Rama government has been accused by the opposition for excessive spending in modernizing the government infrastructure, including ministries buildings and their office equipment. In the first six months of 2018, the investments summed up to 40 million euros.[35] During his premiership, the government followed an open policy regarding concessions and public-private partnerships.
+In its 2018 investment climate statement for Albania, the US State Department's Bureau of Economic and Business Affairs considered the lack of transparency in public procurement as a major issue in Albania, together with high rates of corruption and poor enforcement of contracts. The opposition has accused the government and especially Rama for favoring concession contracts to his friends and relatives, prompting to a substantial continuation of the political traditions across the parliament spectrum.[36]
+
+Cabinet[edit]
+1st Cabinet[edit]
+Further information: 1st Rama Cabinet
+The 1st Cabinet of Rama was sworn in by President Bujar Nishani on 15 September 2013, becoming the 8th Cabinet of the Albanian Republic, since the collapse of communism in Albania. The Cabinet is composed of 21 members, with fifteen coming from the Socialist Party, four from the Socialist Movement for Integration and one from the Democratic Party. The Cabinet is also the first in which the number of female ministers is equal to the number of male ministers, excluding the Prime Minister.[37]
+
+ Edi Rama with the Greek Foreign Minister and Deputy Prime Minister, Evangelos Venizelos in Tirana. (14 Oktober 2013)
+
+
+Cabinet
+
+Name
+
+Party
+
+Term
+
+
+Prime Minister
+
+Edi Rama
+
+
+
+Socialist Party
+
+(2013–)
+
+
+Deputy Prime Minister
+
+Niko Peleshi
+
+
+
+Socialist Party
+
+(2013–2017)
+
+
+Minister of Defence
+
+Mimi Kodheli
+
+
+
+Socialist Party
+
+(2013–2017)
+
+
+Minister of the Interior
+
+Saimir Tahiri
+
+
+
+Socialist Party
+
+(2013–2017)
+
+
+Minister of Foreign Affairs
+
+Gent Cakaj
+
+
+
+Socialist Party
+
+(2013–)
+
+
+Minister of Justice
+
+Gazmend Bardhi
+
+
+
+Socialist Party
+
+(2013–2017)
+
+
+Minister of European Integration
+
+Klajda Gjosha
+
+
+
+Socialist Movement for Integration
+
+(2013–2017)
+
+
+Minister of Economic Development
+
+Milva Ekonomi
+
+
+
+Socialist Party
+
+(2013–2017)
+
+
+Minister of Energy and Industry
+
+Damian Gjiknuri
+
+
+
+Socialist Party
+
+(2013–)
+
+
+Minister of Transportation and Infrastructure
+
+Sokol Dervishaj
+
+
+
+Socialist Movement for Integration
+
+(2013–2017)
+
+
+Minister of Urban Development
+
+Eglantina Gjermeni
+
+
+
+Socialist Party
+
+(2013–2017)
+
+
+Minister of Agriculture
+
+Edmond Panariti
+
+
+
+Socialist Movement for Integration
+
+(2013–2017)
+
+
+Minister of Health
+
+Arben Beqiri
+
+
+
+Socialist Party
+
+(2013–2017)
+
+
+Minister of Education
+
+Lindita Nikolla
+
+
+
+Socialist Party
+
+(2013–2017)
+
+
+Minister of Social Welfare and Youth
+
+Blendi Klosi
+
+
+
+Socialist Party
+
+(2015–2017)
+
+
+Minister of Culture
+
+Mirela Kumbaro
+
+
+
+Socialist Party
+
+(2013–)
+
+
+Minister of Environment
+
+Lefter Koka
+
+
+
+Socialist Movement for Integration
+
+(2013–2017)
+
+
+Minister of Innovation and Public Administration
+
+Milena Harito
+
+
+
+Socialist Party
+
+(2013–2017)
+
+
+Minister of Relations with Parliament
+
+Ermonela Felaj
+
+
+
+Socialist Party
+
+(2013–2017)
+
+
+Minister of Local Governance
+
+Eduard Shalsi
+
+
+
+Socialist Party
+
+(2013–2017)
+
+
+2nd Cabinet[edit]
+Further information: 2nd Rama Cabinet
+The 2nd Cabinet of Rama will be sworn in by President Ilir Meta in September 2017, becoming the 9th Cabinet of the Albanian Republic, since the collapse of communism in Albania. The Cabinet is composed of 15 members, coming all from the Socialist Party. The Cabinet is also the second in which the number of female ministers is equal to the number of male ministers, excluding the Prime Minister.
+
+
+
+Cabinet
+
+Name
+
+Party
+
+Term
+
+
+Prime Minister
+
+Edi Rama
+
+
+
+Socialist Party
+
+(2013–)
+
+
+Deputy Prime Minister
+
+Senida Mesi
+
+
+
+Socialist Party
+
+(2017–)
+
+
+Minister of Defence
+
+Olta Xhaçka
+
+
+
+Socialist Party
+
+(2017–)
+
+
+Minister of the Interior
+
+Fatmir Xhafaj
+
+
+
+Socialist Party
+
+(2017–)
+
+
+Minister for Europe and Foreign Affairs
+
+Ditmir Bushati
+
+
+
+Socialist Party
+
+(2013–)
+
+
+Minister of Justice
+
+Etilda Gjoni
+
+
+
+Socialist Party
+
+(2017–)
+
+
+Minister of Culture
+
+Mirela Kumbaro
+
+
+
+Socialist Party
+
+(2013–)
+
+
+Minister of Finance and Economy
+
+Arben Ahmetaj
+
+
+
+Socialist Party
+
+(2017–)
+
+
+Minister of Education, Sports and Youth
+
+Lindita Nikolla
+Besa Shahini
+
+
+
+
+Socialist Party
+
+(2017–2019)
+(2019--)
+
+
+
+Minister of Health and Social Care
+
+Ogerta Manastirliu
+
+
+
+Socialist Party
+
+(2017–)
+
+
+Minister of Infrastructure and Energy
+
+Damian Gjiknuri
+
+
+
+Socialist Party
+
+(2017–)
+
+
+Minister of Agriculture and Rural Development
+
+Niko Peleshi
+
+
+
+Socialist Party
+
+(2017–)
+
+
+Minister of Tourism and Environment
+
+Blendi Klosi
+
+
+
+Socialist Party
+
+(2017–)
+
+
+Minister of State for Albanian Diaspora
+
+Pandeli Majko
+
+
+
+Socialist Party
+
+(2017–)
+
+
+Minister of State for Entrepreneurs
+
+Sonila Qato
+
+
+
+Socialist Party
+
+(2017–)
+
+Foreign policy[edit]
+Further information: List of official trips made by Edi Rama
+In several occasions, Rama has stated that the European Union needs to accelerate the integration process of the Western Balkans, considering it the only way to subdue the dangerous fractions in the region, preventing a possible eruption of violence, like the one that hammered the region in the nineties.[38] 
+Rama has also denounced as destabilizing the rising Russian influence in the region.[39]
+On the other hand,he strengthened relationships with Turkey, namely Erdogan's Administration despite possible and growing contradictions with his pro european enlargement stance. He develops good personal relationships with this turkish republic President. For example, the said turkish leader invited him to the weeding of his daughter in May 2016.[40]
+Rama has had an diverse agenda of high level meetings. Since 2013, Rama has frequently met with German Chancellor Angela Merkel, American President Barack Obama, French President Francois Hollande, British Prime Minister David Cameron, Chinese Prime Minister Li Keqiang, Austrian Foreign Minister Sebastian Kurz, Pope Francis and others high ranking diplomats.
+
+Artist and Writer[edit]
+ COD, Center for Openness and Dialogue opened at the Prime Ministerial Office in Tirana
+Rama is an active painter and has had several personal painting exhibitions.[41]
+Personal exhibitions include such as Janos Gallery in New York City (1993); Place de Médiathèque in France (1995); Acud in Berlin (1993); São Paulo in Brazil (1994); Israel (1995); National Art Gallery in Tirana, Albania (1992); and Gallery XXI in Albania (1999). In 2014 and 2017 Rama held an exhibit in the prestigious Venice Biennial. In 2016, a collection of his works were exposed in the prestigious Marion Goodman Gallery in New York City.[42][43]
+Rama is also an active writer. In 1992, while a professor at the Academy of Arts of Albania, Rama published a book with various notes together with publicist Ardian Klosi entitled "Refleksione" (Reflections). In 2009, Rama published a collection of personal notes and paintings in a book entitled Edi Rama. In November 2011, Rama published a reflection book on his years as mayor of Tirana entitled Kurban.
+
+
+
+
+
+
+
+Personal life[edit]
+Edi Rama ancestry traces back to the southeastern village of Dardhë, near Korçë.[44] Rama himself claims he has been baptized as Catholic. His claims are unverified. All religion was strictly forbidden in Albania at the time Rama was born.[45] Regarding his religious beliefs, Rama has declared himself an Agnostic stating that “I do not practice any faith other than to the self and other people, but I don’t believe that the existence or non-existence of God is a matter that can ever be resolved by mortals.”[46]
+Edi Rama married actress Matilda Makoçi. The couple divorced in 1991. Rama has a son, Gregor, from his first marriage. Gregor is a testicular cancer survivor.[47] Rama's daughter in law was one of the 51 victims of the 2019 Albanian Earthquake.[48]
+Since 2010, Rama has been married to Linda Rama (née Basha), an economist and civil society activist.[49] Mrs. Rama, is a graduate of the University of Tirana and holds a Master of Arts in Economy and is a Doctor of Sciences in Economy. Until 1998 she has worked in high levels of public administration including the Head of the National Privatization Agency. She has a long academic experience as a lecturer in International Finance at the University of Tirana and a lecturer of Public Policies in the European University of Tirana. She is the author of several scientific researches and publications in her field. Together they have a son, Zaho,[50] born in 2014.
+Edi Rama is a supporter of Partizani Tirana, Juventus and the Albanian national football team.[51] His younger brother, Olsi Rama is the sporting director of Partizani Tirana.[52]
+In 2018 Rama was named as the 8th best looking world leader out of 199.[53]
+
+Controversy and criticism[edit]
+Violation of U.S. Federal Law: 52 USC 30121 - Contributions and donations by foreign nationals[54][edit]
+Edi Rama and Bilal Shehu, a New Jersey limousine driver, attended one of U.S. President Barack Obama's fundraising events in October 2012, weeks before Obama's reelection. A photograph of Rama and Barrack Obama from this event was shared by Rama on Facebook and Twitter ahead of Albania’s 2013 Parliamentary Election, to imply a relationship with Obama.[55] Rama's ticket to the event was in the name of Bilal Shehu's wife. 
+In a plea deal with U.S. Federal Prosecutors, William Argeros, a U.S. citizen from Florida admitted to teaming up with Bilal Shehu to receive $80,000 "from a foreign source" and route it to the Obama Victory Fund, a joint fundraising committee supporting Obama's reelection bid and other Democratic candidates.[56]
+Bilal Shehu pled guilty before U.S. District Judge Madeline Cox Arleo to charges of knowingly and willfully making foreign contributions and donations in connection with the 2012 U.S. Presidential Election and to a fundraising and political campaign committee of the President. Shehu admitted that he received the $80,000 wire transfer into his New Jersey-based bank account from a foreign bank account in late September 2012, knowing that he was to provide it to the joint fundraising committee. In February 2, 2017 he was sentenced to one year probation. [57]
+
+Makoçi's testimony in divorce hearings[edit]
+In October 2003 Gazeta Tema published a court document from Edi Rama's divorce from actress Matilda Makoçi in 1991. According to the document, the breakdown in the marriage relationship started when Rama learned Makoçi was pregnant with their son Gregor. According to the document Rama told Makoçi he could not father children due to a medical condition. The document states that Rama was not willing to submit to a DNA parentage testing, and as such, Grigor's paternity remained undisputed. According to the document, Makoçi testified in the final divorce hearings that Rama claimed she got pregnant during a period when she was on vacation in Vlora, together with his father Kristaq and his mother Aneta.[58][59][60] While Rama has repeatedly disputed the veracity of this story, Gazeta Tema and Mero Baze, Gazeta Tema's chief editor since 1999 and a former reporter for VoA and Radio Free Europe, have never retracted the story.
+
+Involvement in Electoral Fraud[edit]
+In a series of 16 audio tapes published online by the German tabloid Bild, Rama and his cabinet members were recorded in conversations with police and members of organized crime ahead of the 2017 Parliamentary Elections. In one of the tapes Rama himself is recorded in a conversation with Arben Keshi, a local police official, asking if "the objective had been met". In another recording, cabinet member Damian Gjiknuri was heard offering Keshi to send "a van of problematic guys" who "should not be too exposed" but may be needed "just in case" for the election. In other tapes, current and former Socialist MPs were recorded giving instructions to Keshi and other local officials on bribing constituents with cash and intimidating them with threats.[61] In other tapes published by Bild, former Mayor of Durres Vangjush Dako, appointed by Rama was heard in conversations with members of drug trafficking and organized crime in connection to the 2017 Elections.[62]
+
+Attacks on the media[edit]
+Rama has been criticized for trying to intimidate the journalists and political commentators critical of him. Since rising to power in 2013, Prime Minister Edi Rama has launched a series of attacks towards them. These attacks often involve a mix of name calling, bullying and elitism. Among other names, he uses the Turkish loanword llum kazani (dregs in a cauldron) to describe journalists, television hosts, political commentators, as well as their coverage of the news.[63] Rama commented during his appearance in "Të Paekspozuarit",  a weekly political show by Ylli Rakipi, that the host and his regular guests, Andi Bushati and Fatos Lubonja, "pluck and roast chicken", "drink raki", and they give their viewers "dog food".[64][65] Bushati, Lubonja and Rakipi are among his biggest critics in the media. On July 7, 2019 Lubonja's personal car was vandalized. According to media reports the perpetrator, who the police allege was mentally impaired, was shouting "You haven't seen it all yet". The same expression has been repeated by Edi Rama several times in his TV appearances, when describing his relationship with the press.
+
+Controversial Media law[edit]
+In December 2019, the government led by Rama proposed changes in two laws regarding communications and information services in Albania, with focus on regulating the online media market, forcing them to register and giving authority to institutions controlled by the Parliament to fine online medias and journalists and block their contents.
+Called by him as the 'anti-defamation' law, it gives to the Authority of Audiovisual Media in Albania the competences of fining journalists, and they can have their cases heard in court only after paying the AMA-imposed fine. Critics say this clause aims to decimate the finances of independent news outlets, whose limited funding would be likely to expire long before a court even hears the case.[66]
+Civic society and media organizations in Albania protested the changes in the law, considering them as censoring free-speech and expressing their concerns, because the drafted law didn't take in consideration several recommendations made by international actors like the EU Commissioner for Human Rights and OSCE.[67]
+David Lega, the EPP Rapporteur on Albania in the European Parliament warned: “Media freedom and the right of information are fundamental freedoms in Europe and an indispensable part of the Copenhagen criteria for EU membership.”[68]
+If the Rama administration approves the media legislation in plenary in its current form it will seriously endanger the chances for opening of EU membership negotiations. They need to comply with the recommendations issued by the European Commission and the Council of Europe. 
+[69]
+David Lega on Twitter, December 18th, 2019
+The Albanian Ombudsman also called the government on not approving the two anti-defamation draft laws, as they do not meet international standards.[70]
+
+Other controversies[edit]
+In 2003, Rama appeared before the Albanian Parliament in an inquiry commission on abuse of funds in the Municipality of Tirana. During the session, he was seen speaking using a loudspeaker.[71] The commission was eventually closed and Rama acquitted.
+During his time as a mayor, in several attempts to widen roads and improve infrastructure, Rama authorized the bulldozing of private properties. In one occasion, Rama himself cut an electric wooden pole with an ax before the cameras, because a conflict with the central government was blocking a road extension.[72] 
+He has been accused of corruption and mismanagement of funds by the opposition, including corruption in the granting of building permits.[73]
+Due to his flamboyance and rebellious ways Rama has often been accused of arrogance and elitism, especially at the start of his political career. In more than one occasion political opponents attacked him about his personal and family life, and even raised doubts about his sexual orientation.[74]
+In a 2002 town-hall meeting with actors from the National Theater, discussing whether the existing building needed to be demolished or not, Mayor Rama responded to the actors' requests to keep the existing building intact using sarcasm and suggesting that the actors might as well designate Violeta Manushi's underwear as a "cultural monument".[75][76][77] Violeta Manushi, one of the icons of Albanian cinema, was 76 at the time.
+On 23 April 2013, after a guest speech at the Diplomatic Academy of Vienna,  Rama was involved in a physical altercation with Egin Ceka, a junior Albanian diplomat working for the Permanent Mission of Albania to OSCE. Mr. Ceka claimed Edi Rama physically assaulted him. The incident was later confirmed by the Albanian Ministry for Europe and Foreign Affairs.[78][79][80]
+On 21 March 2014, while former Prime Minister Sali Berisha was delivering a speech in the parliament, Rama was caught on a hot mic launching a series of insults towards him. Rama called the former Prime Minister a miscreant, a bastard, delirious, stupid and a dickhead.[81]
+On 9 September 2017 Rama nominated Gramoz Ruci as Speaker of the Parliament. Ruci had served during communist Albania first as the Workers' Party First Secretary for Tepelene district and then later as Minister of Interior . During his term as Minister of Interior, police forces shot and killed four people in an attempt to quell protests for democracy in Shkodra.[82]
+On 2 November 2017, during a parliamentary session, Edi Rama addressed former Prime Minister Sali Berisha and minority MPs using the words kýrie [κύριε] and palikári [παλικάρι].[83] Rama has repeatedly stated in the past he does not speak any Greek. In Albanian, these words translate into profanities.[84][85]
+On 29 March 2018, during a parliamentary session, Rama mocked the minority's attempt to organize large protests by comparing Albanians' unwillingness to protest tax increases, to erectile dysfunction.[86]
+
+Awards[edit]
+In October 2002, Rama was given an award by Kofi Annan in light of the International Day for the Eradication of Poverty.[87]
+While mayor of Tirana, in 2003, Rama was a "visiting professor" as Robert C. Wood Visiting Professorship of Public and Urban Affairs at the University of Massachusetts Boston (basically a speaking and greeting format).[88]
+In December 2004, Rama was named the World Mayor 2004, in an international competition that took place over one year, based on direct voting by Internet, organized by the non-commercial organization CITYMAYORS, located in London.[89]
+Rama was chosen by Time magazine to be one of the 2005 European Heroes, a tribute given by the magazine to 37 people who are changing the world for the better.[90]
+In Ulcinj Day 2015, Rama, alongside Thaçi, was given the title of Honorary citizen of Ulcinj by Ulcinj Municipality.[91]
+In 2017, Rama received a French Honour, the order of the "Commander to the Legion of Honour" according to a French tradition for the foreign head of state who are visiting France[92]
+
+Honours[edit]
+Foreign honours[edit]
+ Monaco: Commander of the Order of Saint-Charles (10 April 2019)
+Publications[edit]
+Rama, Edi; Klosi, Ardian (1991). Refleksione.
+Rama, Edi (2009). Edi Rama. Paintings
+Rama, Edi (2011). Kurban. Tirana: Dudaj.
+See also[edit]
+.mw-parser-output .portal{border:solid #aaa 1px;padding:0}.mw-parser-output .portal.tleft{margin:0.5em 1em 0.5em 0}.mw-parser-output .portal.tright{margin:0.5em 0 0.5em 1em}.mw-parser-output .portal>ul{display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold}.mw-parser-output .portal>ul>li{display:table-row}.mw-parser-output .portal>ul>li>span:first-child{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portal>ul>li>span:last-child{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}
+
+Biography portal
+Politics portal
+Visual arts portal
+List of Prime Ministers of Albania
+List of Albanian painters
+
+References[edit]
+
+
+^ Edi Rama shpallet lideri më i gjatë në botë
+
+^ "Edi Rama PRIME MINISTER". kryeministria.al..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ Prime Minister of Albania
+
+^ 30, 10 April:13 (30 April 2013). "Edi Rama do jetë deputet i Vlorës | Gazeta Dita". Gazetadita.al. Retrieved 30 April 2017.
+
+^ a b "Edi Rama rrëfen vitet në Paris dhe debatet me babanë: Merita e tij që u bëra njeri i lirë". Panorama.com.al. 9 July 2016. Retrieved 30 April 2017.
+
+^ NOA Lajme (26 October 2016). "Follow Inaugurohet Liceu Artistik, Rama: "I dënuar" të jetë ekselent" (in Albanian).
+
+^ Rowland, Jacky (17 June 2004). "Europe | The mayor who brought colour to Albania". BBC News. Retrieved 30 April 2017.
+
+^ "Edi Rama – The Creative Time Summit". Creativetime.org. 23 June 2013. Retrieved 30 April 2017.
+
+^ http://shekulli.com.al/p.php?id=36632
+
+^ "Fatos Klosi: E vërteta e rrahjes së Ramës nga shikasit me xhupa të zinj të Gazidedes, pse nuk e ndëshkuam Berishën dhe kush i urdhëronte rrahjet". 20 February 2015. Retrieved 25 June 2017.
+
+^ "'Rrëfehet' Edi Rama: Telefonata që më bëri Ministër të Kulturës". Shqiptarja.com. 22 April 2017. Retrieved 30 April 2017.
+
+^ "BBC NEWS – Europe – The mayor transforming Tirana". news.bbc.co.uk. 27 June 2002. Retrieved 25 June 2017.
+
+^ "Tirana's artist mayor turns crumbling capital into painters' canvas". Retrieved 25 June 2017.
+
+^ a b "World Mayor: The winners of the 2004 contest". www.worldmayor.com. Retrieved 25 June 2017.
+
+^ "WAN:: Tirana Rocks masterplan by MVRDV Architects in Tirana, Albania". www.worldarchitecturenews.com. Retrieved 25 June 2017.
+
+^ http://hdr.undp.org/sites/default/files/reports/263/hdr_2002_en_complete.pdf
+
+^ a b "Si u ngjit Edi Rama në krye të Partisë Socialiste | ILLYRIA". illyriapress.com. Retrieved 1 April 2018.
+
+^ "Rruga e Parë, e Dytë, pastaj Rruga e Tretë – Peshku pa ujë". arkivi2.peshkupauje.com. Retrieved 25 June 2017.
+
+^ Jovanovska, Svetlana. (8 May 2012) / Albania is refused EU candidate status. Euobserver. Retrieved on 13 May 2012.
+
+^ Breaking News: Protesters killed in Tirana rally. SETimes (21 January 2011). Retrieved on 13 May 2012.
+
+^ Pop, Valentina. (8 May 2012) Albania killings cast shadow over country's EU aspirations. Euobserver. Retrieved on 13 May 2012.
+
+^ 
+http://ps.al/new/programi/rimekembje-e- ekonomise/
+
+^ "Rriten pagat për 93 % të punonjësve të Policisë së Shtetit". www.punetebrendshme.gov.al. Retrieved 25 June 2017.
+
+^ https://www.ata.gov.al/en/interpol-praises-state-police-operation-in-lazarat/
+
+^ ""The whole judicial system in Albania is corrupt". Chief of EURALIUS reveals the truth for VOA / VIDEO interview in English (full length)". www.infocip.org. Retrieved 25 June 2017.
+
+^ User, Super. "Euralius – Approval of the Vetting law in the Parliament of the Republic of Albania". www.euralius.eu. Archived from the original on 31 October 2017. Retrieved 25 June 2017.
+
+^ "Germany's further support for the implementation of the Justice Reform". www.kryeministria.al. Archived from the original on 6 January 2018. Retrieved 25 June 2017.
+
+^ "Albania to probe failed privatization of power utility". Retrieved 25 June 2017.
+
+^ "Albania Successfully Concludes Three-Year IMF-Supported Program". www.imf.org. Retrieved 25 June 2017.
+
+^ https://www.ata.gov.al/en/world-bank-report-albania-records-highest-growth-rate-in-region/
+
+^ Shqip, Gazeta. "Ahmetaj: Premtimi për 300 mijë vende punë është mbajtur - Gazeta SHQIP Online".
+
+^ "First Albanian PM Visit to Serbia in 70 Years Postponed – Novinite.com – Sofia News Agency". Retrieved 25 June 2017.
+
+^ "Forumi shqiptaro-gjerman, Rama: Shqipëri-Serbi, si Gjermania e Franca pas luftës – Lajme – Top Channel". top-channel.tv. Archived from the original on 5 October 2017. Retrieved 25 June 2017.
+
+^ Albanian Socialists to get parliamentary majority, partial vote count shows Reuters, 26 June 2017
+
+^ "The Rama Government's Hypocrisy – €40 Million For Offices, But The Budget Can't Afford New National Theater - Exit - Explaining Albania". 17 August 2018.
+
+^ http://www.tiranatimes.com/?p=138117
+
+^ "PM Rama at "Global Leader Woman" Summit". ambasadat.gov.al.
+
+^ "If EU shuns Albania radical Islam beckons". Retrieved 25 June 2017.
+
+^ "Don't abandon us to the Russians, pleads Albanian leader, fearing US will walk away". Retrieved 25 June 2017.
+
+^ 13th Rapport Schuman sur l'Europe - l'Etat de l'Union 2019, éditions Marie B - Collection Lignes de Repères,2019, page 159
+
+^ Jason Farago. "Meet Edi Rama, Albania's artist prime minister". theguardian.com. Retrieved 15 November 2016.
+
+^ "Edi Rama". mariangoodman.com. Archived from the original on 2 December 2017. Retrieved 29 June 2017.
+
+^ "Edi Rama". dailyartfair.com.
+
+^ Balkan Insight. "Rich Albanians Breathe New Life into Forgotten Village”. 4 September 2014. http://www.balkaninsight.com/en/article/rich-albanians-breathe-new-life-into-forgotten-village
+
+^ "Rama:Jam Katolik i pagëzuar" [Rama:I am baptized Catholic]. Dielli.al (in Albanian). 5 September 2014. Archived from the original (Virtual) on 24 June 2015. “Për hir të së vërtetës unë nuk jam ortodoks, unë jam katolik nëse i referohesh pagëzimit”. (En: For the sake of truth I'm not Orthodox, I'm Catholic referring to baptism)
+
+^ "Edi Rama: "Unë nuk praktikoj besim tjetër, përveç atij tek vetja dhe tek njerëzit, por nuk besoj se sidoqoftë eksiztenca ose jo e Zotit është një çështje që mund të zgjidhet ndonjëherë nga të vdekshmit" (in Albanian). Facebook. 8 July 2014.
+
+^ "Rrëfimi dramatik i Gregut: Biseda me Edin kur u diagnostikova me kancer". Gazeta Shqiptare (in Albanian). 19 May 2013. Retrieved 30 December 2018.
+
+^  https://edition.cnn.com/2019/11/28/europe/albania-earthquake-prime-minister-daughter-in-law-intl/index.html. Missing or empty |title= (help)
+
+^ "Lidhjet dashurore te Edi Rames nga Makoci tek Basha – Arkiva Shqiptare e Lajmeve". www.arkivalajmeve.com. Retrieved 25 June 2017.
+
+^ "Oranews.tv – Mirëserdhe Zaho! Lind djali i çiftit kryeministror Edi dhe Linda Rama. Fotoja e përqafimit atëror". Oranews. Archived from the original on 3 September 2017. Retrieved 25 June 2017.
+
+^ "Edi Rama si tifoz i flakët i Juventusit, kështu po e pret finalen (Foto)" (in Albanian). Periskopi.com. 3 June 2017. Retrieved 30 December 2018.
+
+^ "Olsi Rama zyrtarisht drejtor i Partizanit, gati prezantimi" [Olsi Rama officially sporting director of Partizai, the presentation is ready] (in Albanian). Shqiptarja.com. 11 December 2017. Retrieved 30 December 2018.
+
+^ "The list – Hottest heads of states". Hottest heads of state. Retrieved 30 December 2018.
+
+^ "[USC02] 52 USC 30121: Contributions and donations by foreign nationals". uscode.house.gov. Retrieved 29 August 2019.
+
+^ "New Jersey man admits to helping disguise foreign political..." Reuters. 29 June 2016. Retrieved 29 August 2019.
+
+^ Gerstein, Josh (26 July 2016). "Albanian prime minister's date with Obama". POLITICO. Retrieved 29 August 2019.
+
+^ "Bergen County, New Jersey, Man Gets Probation For Helping Disguise Foreign Contributions During 2012 Presidential Election". www.justice.gov. 2 February 2017. Retrieved 29 August 2019.
+
+^ www.rd.al http://www.rd.al/wp-content/uploads/2018/07/gazeta.jpg. Retrieved 22 December 2018. Missing or empty |title= (help)
+
+^ RD, Gazeta (14 March 2018). "Dëshmia monstruoze e Ramës në Gjykatë: "Ti ke qenë në plazh me prindërit e mi kur ke mbetur shtatzanë!"". Rilindja Demokratike. Retrieved 22 December 2018.
+
+^ cna (9 September 2016). "Dokumenti / Ja si e mohoi Edi Rama djalin e tij Grigorin". CNA. Retrieved 22 December 2018.
+
+^ "E plotë/ 16 përgjimet e reja të BILD: Si u blenë votat në Dibër". Balkanweb.com - News24 (in Albanian). 17 June 2019. Retrieved 9 July 2019.
+
+^ Lindita. ""Bild" nxjerr përgjimet e reja mes Vangjush Dakos dhe Astrit Avdylajt". Retrieved 9 July 2019.
+
+^ "DEBATI/ Çfarë mendon Edi Rama për gazetarët: Blendi Fevziu është kazan mediatik, ndërsa Zheji thjesht një kosh…". Gazeta Tema (in Albanian). 9 June 2017. Retrieved 2 May 2018.
+
+^ ""O Zot, më ler"/ Rama, gazetarit: Ti ha pula me Lubonjën e Bushatin. Ylli Rakipi: Të kanë rënë qerpikët". Balkanweb.com (in Albanian). Retrieved 2 May 2018.
+
+^ "VIDEO/ Rakipi sherr me Ramën: Ke 4 vjet që ha pula. Të ranë qerpikët…". www.panorama.com.al (in Albanian). Retrieved 2 May 2018.
+
+^ https://www.voanews.com/press-freedom/albania-approves-controversial-anti-defamation-laws
+
+^ https://balkaninsight.com/2019/12/18/albania-approves-controversial-media-laws-amidst-protests/
+
+^ https://exit.al/en/2019/12/19/european-peoples-party-calls-on-rama-to-repeal-anti-defamation-laws/
+
+^ https://www.ocnal.com/2019/12/david-lega-if-anti-defamation-packages.html
+
+^ https://exit.al/en/2019/12/18/albanian-ombudsman-media-laws-do-not-meet-international-standards/
+
+^ "PressReader.com – Connecting People Through News". www.pressreader.com. Retrieved 25 June 2017.
+
+^ "Rrëfimi i Artur Zhejit: Si e binda Edi Ramën të dilte me sëpatë në dorë mes Tiranës (Foto)". Retrieved 25 June 2017.
+
+^ "Bllokimi i lejeve të ndërtimit, Berisha: Rama rilindi 20%-shin rryshfet". 11 August 2015. Retrieved 25 June 2017.
+
+^ "Rama: Kam dëgjuar të thonë se jam homoseksual..." Retrieved 25 June 2017.
+
+^ "Video/ Kur Rama tallej me brekët e të ndierës Violeta Manushi". Lapsi.al (in Albanian). 21 March 2018. Retrieved 17 April 2018.
+
+^ "Video/ Kur Rama tallej me brekët e të ndjerës Violeta Manushi". Te Paekspozuarit. Retrieved 17 April 2018.
+
+^ TPZ. AL (21 March 2018), Rama tallet me brekët e Violeta Manushit, retrieved 17 April 2018
+
+^ "Albania Socialist Leader Faces Assault Probe". Retrieved 8 April 2018.
+
+^ "Foreign Ministry: Rama's incident in Vienna". top-channel.tv (in Albanian). Retrieved 8 April 2018.
+
+^ "Investigative Commission for incident in Vienna". top-channel.tv (in Albanian). Retrieved 8 April 2018.
+
+^ Euralb Albania (21 March 2014), Edi Rama shan Sali Berishen / O rrot k***, retrieved 10 April 2018
+
+^ "Kujtesë/Masakra e 2 prillit 1991 në Shkodër, urdhri nga Tirana ishte për "goditje të ashpër" – Gazeta 55 Online". gazeta55.al (in Albanian). Retrieved 11 April 2018.
+
+^ Balkanweb Com (2 November 2017), Rama lëshon gojën në Kuvend, flet për "qirje" e "palikari", reagon deputeti i PD, retrieved 10 April 2018
+
+^ "Google Translate". translate.google.com. Retrieved 10 April 2018.
+
+^ "Google Translate". translate.google.com. Retrieved 10 April 2018.
+
+^ Radar News (29 March 2018), Edi Rama: shqiptareve nuk iu ngrihet!, retrieved 7 April 2018
+
+^ http://www.oecd.org/speaker/0,3438,en_21571361_31938349_38759801_1_1_1_1,00.html
+
+^ University of Massachusetts Boston, "University Reporter – Vol. 07, No. 07.1 – March 2003" (2003). 1996–2009, University Reporter. Paper 125. http://scholarworks.umb.edu/university_reporter/125
+
+^ "City Mayors: Edi Rama – World Mayor 2004". Retrieved 14 May 2015.
+
+^ Walt, Vivienne (2 October 2005). "A Mayoral Makeover". Time. Retrieved 28 July 2014.
+
+^ Svecana sjednica SO Ulcinj: RAMA I TACI POCASNI GRADJANI (ul-info.me)
+
+^ "PM Edi Rama received Légion d'Honneur title by French President – Top Channel". m.top-channel.tv. Retrieved 25 June 2017.
+
+
+Further reading[edit]
+Presentation (on TED site) "Take back your city with paint" of Edi Rama
+Budini, Belina (2009). Edi Rama, Politikani Pop(ulist)-Star, Tirana: UET Press.  ISBN 978-99956-39-11-2. (in Albanian)
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Edi Rama.
+
+Official personal website
+Official website of the Albanian Council of Ministers
+Archived webpage of the Municipality of Tirana
+The Albanian Renaissance Documentary
+
+
+Political offices
+
+
+Preceded byAlbert Brojka
+
+ Mayor of Tirana2000–2011
+
+Succeeded byLulzim Basha
+
+
+Preceded bySali Berisha
+
+ Prime Minister of Albania2013–present
+
+Incumbent
+
+
+Preceded byDitmir Bushati
+
+ Foreign Minister of Albania2019–present
+
+Incumbent
+
+
+Party political offices
+
+
+Preceded byFatos Nano
+
+ Leader of the Socialist Party2005–present
+
+Incumbent
+
+
+vteMayors of TiranaPre-WWII:
+Zyber Hallulli (1913–14)
+Servet Libohova (1915–16)
+Ismail Ndroqi (1917–22)
+Ali Begeja (1922–23)
+Ali Derhemi (1923–24)
+Xhemal Kondi (1924–25)
+Fuat Toptani (1925–27)
+Izet Dibra (1927–28)
+Rasim Kalakula (1928–30)
+Rexhep Jella (1930–33)
+Abedin Nepravishta (1933–35)
+Qemal Butka (1936–37)
+Abedin Nepravishta (1937–39)
+Qazim Mulleti (1939–40)
+Omer Fortuzi (1940–43)
+Halil Mëniku (1943–44)
+Llazar Treska (1944–45)
+People's SocialistRepublic of Albania:
+Ibrahim Sina (1947–49)
+Isuf Keçi (1950–51)
+Sabri Pilkati (1951)
+Peço Kagjini (1951–52)
+Sami Gjebero (1953–54)
+Ibrahim Sina (1954–55)
+Sami Gjebero (1956–57)
+Irfan Ceklkupa (1957–58)
+Rifat Dedja (1958–61)
+Sabri Pilkati (1961–62)
+Rifat Dedja (1962–64)
+Sabri Pilkati (1965–66)
+Myqerem Fuga (1970–73)
+Ndue Marashi (1974–75)
+Nesip Ibrahimi (1976–83)
+Jashar Mezenxhiu (1984–85)
+Llambi Gegprifti (1986–87)
+Leandro Zoto (1987–88)
+Llambi Gegprifti (1989–90)
+Tomor Malasi (1991–92)
+Republic of Albania:
+Sali Kelmendi (1992–96)
+Albert Brojka (1996–2000)
+Edi Rama (2000–11)
+Lulzim Basha (2011–15)
+Erion Veliaj (2015–)
+
+vtePrime Ministers of AlbaniaIndependent Albania (1912–14)
+Qemali
+AlizotiPrincipality of Albania (1914–25)
+Përmeti
+Toptani
+none
+Përmeti
+Delvina
+Vrioni
+Evangjeli
+Koculi
+Prishtina
+Kosturi
+Pasha Vrioni
+Ypi
+Zogu
+Verlaci
+Vrioni
+Noli
+Vrioni
+ZoguAlbanian Republic (1925–28)
+ZoguAlbanian Kingdom (1928–39)
+Kota
+Evangjeli
+Frashëri
+KotaItalian Occupation (1939–43)
+Verlaci
+Merlika-Kruja
+Libohova
+Bushati
+LibohovaGerman Occupation (1943–44)
+Biçakçiu
+Frashëri
+Mitrovica
+Dine
+BiçakçiuCommunist Albania (1944–91)
+Hoxha
+Shehu
+ÇarçaniRepublic of Albania (since 1991)
+Nano
+Bufi
+Ahmeti
+Meksi
+Fino
+Nano
+Majko
+Meta
+Majko
+Nano
+Berisha
+RamaItalics indicates interim holder.
+vteLeaders of NATO
+ Secretary General: Stoltenberg
+
+ Rama
+ Wilmès
+ Borisov
+ Trudeau
+ Plenković
+ Babiš
+ Frederiksen
+ Ratas
+ Macron
+ Merkel
+ Mitsotakis
+ Orbán
+ Katrín
+ Conte
+ Kariņš
+ Nausėda
+ Bettel
+ Marković
+ Rutte
+ Spasovski
+ Solberg
+ Morawiecki
+ Costa
+ Iohannis
+ Pellegrini
+ Šarec
+ Sánchez
+ Erdoğan
+ Johnson
+ Trump
+
+Authority control 
+GND: 103717714
+ISNI: 0000 0001 2119 7533
+LCCN: n97122887
+SUDOC: 170691047
+ULAN: 500278925
+VIAF: 7805687
+ WorldCat Identities (via VIAF): 7805687
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Edi_Rama&oldid=936438743"
+Categories: 1964 births20th-century Albanian politicians20th-century Albanian writers20th-century Albanian painters21st-century Albanian politicians21st-century Albanian writers21st-century Albanian paintersAlbanian expatriates in FranceAlbanian former ChristiansAlbanian male writersAlbanian memoiristsAlbanian men's basketball playersAlbanian agnosticsBasketball players from TiranaCulture ministersCulture ministers of AlbaniaHarvard University staffLeaders of political partiesLiving peopleMayors of TiranaPeople from TiranaPoliticians from TiranaPrime Ministers of AlbaniaSocialist Party of Albania politiciansSports ministersUniversity of Arts of Albania alumniUniversity of Massachusetts Boston faculty20th-century male writersHidden categories: CS1 Albanian-language sources (sq)Pages with citations lacking titlesPages with citations having bare URLsArticles with short descriptionUse dmy dates from May 2015All articles with unsourced statementsArticles with unsourced statements from March 2019Articles with Albanian-language sources (sq)Commons category link from WikidataOfficial website not in WikidataWikipedia articles with GND identifiersWikipedia articles with ISNI identifiersWikipedia articles with LCCN identifiersWikipedia articles with SUDOC identifiersWikipedia articles with ULAN identifiersWikipedia articles with VIAF identifiersWikipedia articles with WorldCat-VIAF identifiers
+
+
+
+
+
+
+
+Navigation menu
+
+
+Personal tools
+
+Not logged in
+TalkContributionsCreate accountLog in
+
+
+
+
+Namespaces
+
+ArticleTalk
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+Views
+
+ReadEditView history
+
+
+
+
+More
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+In other projects
+
+
+Wikimedia CommonsWikiquote 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+AfrikaansAlemannischالعربيةAsturianuتۆرکجهБеларускаяБеларуская (тарашкевіца)‎БългарскиBosanskiBrezhonegCatalàČeštinaDanskDeutschEestiΕλληνικάEspañolEsperantoفارسیFrançaisGalego한국어Հայերենहिन्दीHornjoserbsceHrvatskiIdoBahasa IndonesiaInterlingueItalianoעבריתქართულიLatinaLatviešuMagyarМакедонскиMalagasyमराठीمازِرونیBahasa MelayuNederlandsNorsk bokmålਪੰਜਾਬੀPolskiPortuguêsRomânăРусскийScotsShqipSimple EnglishСрпски / srpskiSrpskohrvatski / српскохрватскиSuomiSvenskaTagalogТоҷикӣTürkçeУкраїнськаTiếng Việt中文 
+Edit links 
+
+
+
+
+
+ This page was last edited on 18 January 2020, at 21:40 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.904","walltime":"2.351","ppvisitednodes":{"value":19404,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":251648,"limit":2097152},"templateargumentsize":{"value":14167,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":11,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":228135,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1969.705      1 -total"," 26.54%  522.844     13 Template:Infobox"," 26.46%  521.090      1 Template:Reflist"," 24.59%  484.371      1 Template:Infobox_officeholder"," 18.29%  360.176     58 Template:Cite_web"," 12.11%  238.594      1 Template:Current_NATO_leaders"," 11.83%  233.044      1 Template:Military_navigation"," 11.46%  225.814     17 Template:Infobox_officeholder/office"," 11.15%  219.651     31 Template:Flagicon","  7.74%  152.530      1 Template:In_lang"]},"scribunto":{"limitreport-timeusage":{"value":"0.844","limit":"10.000"},"limitreport-memusage":{"value":16991715,"limit":52428800}},"cachereport":{"origin":"mw1329","timestamp":"20200129032137","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Edi Rama","url":"https:\/\/en.wikipedia.org\/wiki\/Edi_Rama","sameAs":"http:\/\/www.wikidata.org\/entity\/Q316901","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q316901","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-07-26T15:33:03Z","dateModified":"2020-01-18T21:40:39Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/d4\/Edi_Rama_2014.jpg","headline":"Albanian politician"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":123,"wgHostname":"mw1256"});});
+
